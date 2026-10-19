@@ -1,0 +1,8 @@
+{
+  "name": "Historica | World Heritage \u0026 Living History",
+  "description": "An immersive cultural heritage and historical travel platform exploring humanity\u0027s iconic ancient monuments, archaeological marvels, architectural wonders, and living histories.\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
